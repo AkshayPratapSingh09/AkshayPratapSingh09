@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/PjgMPHH/adult-developer-struggling-with-his-Laptop-wearing.gif)(https://linkedin.com/in/akshaypratap09/)
+[![MasterHead](https://i.ibb.co/HdN69RC/cute-developer-struggling-with-his-Laptop-wearing-1-1.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
 <h3 align="center">MERN Full Stack Developer | ML Enthu() | NIET'25</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
