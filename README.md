@@ -40,3 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypratapsingh09&" alt="akshaypratapsingh09" /></p>
 
+[![ApSingh09's GitHub | Stats](https://stats.quine.sh/ApSingh09/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ApSingh09)
+[![ApSingh09's GitHub | Dependencies](https://stats.quine.sh/ApSingh09/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=ApSingh09)
+[![ApSingh09's GitHub | Topics Over Time](https://stats.quine.sh/ApSingh09/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ApSingh09)
+
