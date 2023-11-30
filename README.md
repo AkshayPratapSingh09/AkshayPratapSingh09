@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/HdN69RC/cute-developer-struggling-with-his-Laptop-wearing-1-1.jpg)
+<img src="https://i.ibb.co/F8Kqv17/Leonardo-Diffusion-XL-illustration-of-a-cute-nerdy-like-develo-0.jpg" width=100% height=50%>
 
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
 <h3 align="center">MERN Full Stack Developer | ML Enthu() | NIET'25</h3>
