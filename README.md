@@ -37,7 +37,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,next,ts,vite,mongodb,express,nodejs,js,html,css,c,aws,vercel,selenium,visualstudio,vscode,sqlite,replit,redux,redis,pytorch,py,postman,powershell,postgres,mysql,ai,heroku,flask,figma,fastapi,django,codepen,"/>
 <img src="https://myreadme.vercel.app/api/embed/AkshayPratapSingh09?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypratapsingh09&show_icons=true&locale=en&layout=compact" alt="akshaypratapsingh09" /></p>
