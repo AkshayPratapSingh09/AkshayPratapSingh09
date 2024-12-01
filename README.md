@@ -38,7 +38,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=react,next,ts,vite,mongodb,express,nodejs,js,html,css,c,aws,vercel,selenium,visualstudio,vscode,sqlite,replit,redux,redis,pytorch,py,postman,powershell,postgres,mysql,ai,heroku,flask,figma,fastapi,django,codepen,"/>
-<img src="https://myreadme.vercel.app/api/embed/AkshayPratapSingh09?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<a href="https://bentohub.netlify.app/" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/674cdbfa0002cd941433/preview?project=667d35ca0017fb21fc6c" /></a>
+<!-- <img src="https://myreadme.vercel.app/api/embed/AkshayPratapSingh09?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypratapsingh09&show_icons=true&locale=en&layout=compact" alt="akshaypratapsingh09" /></p>
 
